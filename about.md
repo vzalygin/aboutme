@@ -64,7 +64,7 @@
 
 ## Контакты
 
-vya.zalygin@gmail.com
+vya.zalygin@gmail.com  
 [Вконтакте](https://vk.com/v_zalygin)  
 [Телеграм](https://t.me/v_zalygin)  
 [GitHub](https://github.com/vzalygin)  
