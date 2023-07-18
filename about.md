@@ -4,11 +4,11 @@
 
 ## Достижения
 
-* Прошёл летнюю стажировку в Dodo engineering в 2021 году .NET-разработчиком.
-* Призёр научных конференций школьников ["Инженеры будущего"](https://github.com/vzalygin/aboutme/blob/master/attachments/engineers.jpg) и ["Наука для жизни"](https://github.com/vzalygin/aboutme/blob/master/attachments/science.jpg) в секции "Информационные технологии", где выступал с собственным [крипто- и стегано- графическим мобильным приложением](https://github.com/vzalygin/Chars).
-* Окончил с [золотым дипломом](https://github.com/vzalygin/aboutme/blob/master/attachments/samsung.jpg) курс "Мобильная разработка на Java" от IT-школы Самсунга.
-* Сдал ЕГЭ по информатике на [98 баллов](https://github.com/vzalygin/aboutme/blob/master/attachments/ege.png).
-* Закрыл свою первую сессию на "отлично" :)
+* Прошёл летнюю стажировку в Dodo engineering в 2021 году .NET-разработчиком;
+* Призёр научных конференций школьников ["Инженеры будущего"](https://github.com/vzalygin/aboutme/blob/master/attachments/engineers.jpg) и ["Наука для жизни"](https://github.com/vzalygin/aboutme/blob/master/attachments/science.jpg) в секции "Информационные технологии", где выступал с собственным [крипто- и стегано- графическим мобильным приложением](https://github.com/vzalygin/Chars);
+* Окончил с [золотым дипломом](https://github.com/vzalygin/aboutme/blob/master/attachments/samsung.jpg) курс "Мобильная разработка на Java" от IT-школы Самсунга;
+* Сдал ЕГЭ по информатике на [98 баллов](https://github.com/vzalygin/aboutme/blob/master/attachments/ege.png);
+* Закрыл первый курс только с одной чертверкой. :)
 
 ## Обо мне
 
@@ -16,9 +16,9 @@
 
 Мой стек технологий:
 
-* C# и ASP.NET Core + Dapper
-* Java и Android SDK
-* Rust (на уровне "прочитал rustbook")
+* C# + ASP.NET Core + Dapper
+* Java + Spring + JDBC, Android SDK
+* Rust
 * Python (в основном использовал для реализации алгоритмов)
 * Поверхностно HTML + CSS + JS и React
 
