@@ -26,7 +26,6 @@
 
 - Призёр научных конференций школьников "Инженеры будущего" и "Наука для жизни" в секции "Информационные технологии", где выступал с собственным [крипто- и стегано- графическим мобильным приложением](https://github.com/vzalygin/Chars) ([Диплом 1](https://github.com/vzalygin/aboutme/blob/master/attachments/engineers.jpg), [Диплом 2](https://github.com/vzalygin/aboutme/blob/master/attachments/science.jpg));
 - Сдал ЕГЭ по информатике на [98 баллов](https://github.com/vzalygin/aboutme/blob/master/attachments/ege.png).
-- В рамках [IT-класса](https://profil.mos.ru/it/o-proekte.html) окончил двухгодичный спецкурс по алгоритмам и структурам данных.
 - Окончил [IT-класс](https://profil.mos.ru/it/o-proekte.html) школы 2086, в рамках которого проходил спецкурсы:
     - Алгоритмы и структуры данных (На базе школы, 2 года)
     - Математические основы криптографии (На базе школы, 1 семестр)
