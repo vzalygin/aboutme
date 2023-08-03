@@ -8,7 +8,7 @@
 * Призёр научных конференций школьников ["Инженеры будущего"](https://github.com/vzalygin/aboutme/blob/master/attachments/engineers.jpg) и ["Наука для жизни"](https://github.com/vzalygin/aboutme/blob/master/attachments/science.jpg) в секции "Информационные технологии", где выступал с собственным [крипто- и стегано- графическим мобильным приложением](https://github.com/vzalygin/Chars);
 * Окончил с [золотым дипломом](https://github.com/vzalygin/aboutme/blob/master/attachments/samsung.jpg) курс "Мобильная разработка на Java" от IT-школы Самсунга;
 * Сдал ЕГЭ по информатике на [98 баллов](https://github.com/vzalygin/aboutme/blob/master/attachments/ege.png);
-* Закрыл первый курс только с одной чертверкой. :)
+* Окончил первый курс со средним баллом 4.5/5.0.
 
 ## Обо мне
 
