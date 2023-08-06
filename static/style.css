@@ -1,6 +1,6 @@
 body {
     background-color: beige;
-    width: 850px;
+    width: 800px;
     text-align: center;
     margin: 0 auto;
     margin-top: 25px;
@@ -9,10 +9,6 @@ body {
 .horizontal-container {
     display: flex;
     justify-content: space-between;
-}
-
-.verctical-container {
-
 }
 
 .profile-picture {
