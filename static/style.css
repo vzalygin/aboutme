@@ -7,12 +7,22 @@ body {
 
 .horizontal-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
+    width: max-content;
+    max-width: 100%;
+}
+
+.fixed {
+    display: inherit;
+    flex-wrap: nowrap;
 }
 
 .profile-picture {
     width: 170px;
     border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .block {
@@ -60,5 +70,34 @@ p {
     line-height: 130%;
     margin-top: 0;
     margin-bottom: 5px;
-    /* padding-bottom: 5px; */
+}
+
+@media (max-width: 830px) { /* mobile */
+    body {
+        width: 100%;
+    }
+
+    .horizontal-container {
+        flex-wrap: wrap;
+    }
+
+    .block {
+        width: 100%;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+    .fixed {
+        justify-content: space-between;
+        width: 100%;
+    }
+}
+
+@media (min-width: 830px) { /* desktop */
+    .mobile {
+        display: none;
+    }
+
 }
