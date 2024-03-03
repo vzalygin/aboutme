@@ -17,7 +17,7 @@
 Мой стек технологий:
 
 * C# + ASP.NET Core + Dapper
-* Java + Spring + JDBC, Android SDK
+* Java + Spring, Android SDK
 * Rust
 * Python (в основном использовал для реализации алгоритмов)
 * Поверхностно HTML + CSS + JS и React
