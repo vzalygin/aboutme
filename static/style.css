@@ -91,12 +91,12 @@ p {
     }
 } */
 
-.desktop {
+.mobile {
     display: none;
 }
 
-@media (min-width: 700px) { /* desktop */
+/* @media (min-width: 700px) { /* desktop
     .mobile {
         display: none;
     }
-}
+} */
