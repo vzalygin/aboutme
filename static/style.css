@@ -81,16 +81,12 @@ p {
         flex-wrap: wrap;
     }
 
-    .block {
-        width: 100%;
-    }
-
     .desktop {
         display: none;
     }
 
     .fixed {
-        justify-content: space-between;
+        justify-content: space-around;
         width: 100%;
     }
 }
