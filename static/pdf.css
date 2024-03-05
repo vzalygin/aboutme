@@ -73,7 +73,7 @@ p {
 }
 
 /* mobile */
-@media (max-width: 860px) { 
+/* @media (max-width: 860px) { 
     body {
         width: 100%;
     }
@@ -90,11 +90,15 @@ p {
         justify-content: space-around;
         width: 100%;
     }
+} */
+
+.mobile {
+    display: none;
 }
 
 /* desktop */
-@media (min-width: 860px) { 
+/* @media (min-width: 860px) { 
     .mobile {
         display: none;
     }
-}
+} */
